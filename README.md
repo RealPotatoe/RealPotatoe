@@ -1,19 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RealPotatoe.RealPotatoe">
 
-<div align="center">
-  <h1>Hello World 🧑‍💻</h1>
-  <p>
-    Just your local programmer here o7
-  </p>
-</div>
+### Hello There 👋
 
-<p align="center">
-👀 I’m interested in Java Python 🐍
-<br>
-🌱 I’m currently learning C/ C++
-<br>
-📫 How to reach me: <a href="https://discord.com/users/261489152321781761">Discord</a> / <a href="https://t.me/thepotatoe">Telegram</a>
-</p>
+![Hello There Image](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+
+**My name is Moritz, your local potato programmer.**
+
+* 💫 Currntly I'm working on a small **Discord Bot with discord.py**.
+* 🧠 I’m interested in **Java and Python**.
+* 📖 I’m also learning **C/ C++**
+* 💬 How to reach me: <a href="https://discord.com/users/261489152321781761">Discord</a> / <a href="https://t.me/thepotatoe">Telegram</a>
 
 <!--START_SECTION:waka-->
 
