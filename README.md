@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RealPotatoe.RealPotatoe">
 
-<!--
-**RealPotatoe/RealPotatoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hello World 🧑‍💻</h1>
+  <p>
+    Just your local programmer here o7
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+👀 I’m interested in Java Python 🐍
+<br>
+🌱 I’m currently learning C/ C++
+<br>
+📫 How to reach me: <a href="https://discord.com/users/261489152321781761">Discord</a> / <a href="https://t.me/thepotatoe">Telegram</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
