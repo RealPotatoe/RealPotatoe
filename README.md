@@ -4,6 +4,8 @@
 
 ![Hello There Image](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
+***
+
 **My name is Moritz, your local potato programmer.**
 
 * 💫 Currntly I'm working on a small **Discord Bot with discord.py**.
