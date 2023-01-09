@@ -8,7 +8,7 @@
 
 **My name is Moritz, your local potato programmer.**
 
-* 💫 Currntly I'm working on a small **Discord Bot with discord.py**.
+* 💫 Currently I'm working on a small **Discord Bot with discord.py**.
 * 🧠 I’m interested in **Java and Python**.
 * 📖 I’m also learning **C/ C++**
 * 💬 How to reach me: <a href="https://discord.com/users/261489152321781761">Discord</a> / <a href="https://t.me/thepotatoe">Telegram</a>
