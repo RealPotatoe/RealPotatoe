@@ -11,7 +11,7 @@
 * 💫 Currently I'm working on a small **Discord Bot with discord.py**.
 * 🧠 I’m interested in **Java and Python**.
 * 📖 I’m also learning **C/ C++**
-* 💬 How to reach me: <a href="https://discord.com/users/261489152321781761">Discord</a>
+* 💬 How to reach me: <a href="https://t.me/ThePotatoe">Telegram</a>
 
 <!--START_SECTION:waka-->
 
