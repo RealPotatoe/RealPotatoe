@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RealPotatoe.RealPotatoe">
+<a align="right" href="https://wakatime.com/@055ad605-78d0-4854-8a93-af21ba54a49f"><img src="https://wakatime.com/badge/user/055ad605-78d0-4854-8a93-af21ba54a49f.svg" alt="Total time coded since Dec 15 2022" /></a>
 
 ### Hello There 👋
 
