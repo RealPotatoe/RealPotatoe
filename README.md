@@ -15,6 +15,7 @@
 - 💬 How to reach me: <a href="https://tato.gay">tato.gay</a>
 - 😄 Pronouns: He/Him
 
+---
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
