@@ -14,6 +14,7 @@
 - 📖 My goal for 2024 is to learn **Rust**
 - 💬 How to reach me: <a href="https://tato.gay">tato.gay</a>
 - 😄 Pronouns: He/Him
+- 🥨 My favourite snack: Snack Pretzels
 
 ---
 
