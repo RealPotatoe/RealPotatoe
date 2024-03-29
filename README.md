@@ -23,8 +23,6 @@
 
 > 📦 72.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -73,5 +71,5 @@ JavaScript               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 28.03.2024 00:30 UTC
+ Last Updated on 29.03.2024 00:30 UTC
 <!--END_SECTION:waka-->
