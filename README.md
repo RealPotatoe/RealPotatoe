@@ -9,7 +9,6 @@
 
 **My name is Moritz, your local coffee nerd.**
 
-- 💫 Currently I'm working on a coffe tracking web app using **FastAPI and SvelteKit** 
 - 🧠 I’m interested in **Python and C++**
 - 📖 My goal for 2024 is to learn **Rust**
 - 💬 How to reach me: <a href="https://tato.gay">tato.gay</a>
