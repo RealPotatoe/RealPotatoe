@@ -22,8 +22,6 @@
 
 > 📦 73.1 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -46,13 +44,13 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    8 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -68,5 +66,5 @@ PowerShell               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 25.03.2025 00:44 UTC
+ Last Updated on 26.03.2025 00:44 UTC
 <!--END_SECTION:waka-->
