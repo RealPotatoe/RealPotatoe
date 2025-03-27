@@ -44,13 +44,15 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               47 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.59 % 
+YAML                     2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.20 % 
+CSS                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  50 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  50 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -66,5 +68,5 @@ PowerShell               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 26.03.2025 00:44 UTC
+ Last Updated on 27.03.2025 00:44 UTC
 <!--END_SECTION:waka-->
