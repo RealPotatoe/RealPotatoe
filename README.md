@@ -1,23 +1,43 @@
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=RealPotatoe&color=orange" >
+<div align="center">
+  <a href="https://mbengel.dev">
+    <img src="https://komarev.com/ghpvc/?username=RealPotatoe&label=Views&color=blue&style=flat" alt="Profile views">
+  </a>
   <a href="https://wakatime.com/@055ad605-78d0-4854-8a93-af21ba54a49f">
-    <img src="https://wakatime.com/badge/user/055ad605-78d0-4854-8a93-af21ba54a49f.svg?color=orange" alt="Total time coded since Dec 15 2022" />
+    <img src="https://wakatime.com/badge/user/055ad605-78d0-4854-8a93-af21ba54a49f.svg?style=flat&color=blue" alt="Total time coded since Dec 15 2022">
+  </a>
+</div>
+<div align="center">
+  <a href="https://mbengel.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-mbengel.dev-blue?style=flat" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/moritz-bengel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tato.gay" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Site-tato.gay-blue?style=flat" alt="Personal Site"/>
   </a>
 </div>
 
-### Hello There 👋
+### Hi, I'm Moritz 👋
 
-**My name is Moritz, your local coffee nerd.**
+I'm a Full Stack Developer from Darmstadt, Germany, crafting modern web applications with clean code and emerging technologies.
 
-- 🧠 I’m interested in **Python and C++**
-- 📖 My goal for 2024 is to learn **Rust**
-- 💬 How to reach me: <a href="https://tato.gay">tato.gay</a>
+- 🎓 I'm currently a dual student pursuing my B.Sc. in Computer Science at Hochschule Darmstadt while working at Deutsche Telekom.
+- 💡 My passion lies in exploring cutting-edge open source technologies with vibrant communities, especially in the Go and TypeScript ecosystems.
 - 😄 Pronouns: He/Him
-- 🥨 My favourite snack: Snack Pretzels
+- ☕ Fueled by curiosity and coffee.
 
 ---
 
-<!--START_SECTION:waka-->
+### 🚀 My Favorite Tools
+
+This is the tech I'm most excited about right now:
+
+![My Skills](https://skillicons.dev/icons?i=go,python,typescript,deno,svelte,docker,mongodb,postgres&perline=4)
+
+---
+
+### 📊 My Coding Activity
 
 ```txt
 Total Time: 507 hrs 12 mins
