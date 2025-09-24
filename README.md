@@ -39,6 +39,8 @@ This is the tech I'm most excited about right now:
 
 ### 📊 My Coding Activity
 
+<!--START_SECTION:waka-->
+
 ```txt
 Total Time: 507 hrs 12 mins
 
