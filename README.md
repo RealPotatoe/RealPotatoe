@@ -42,12 +42,12 @@ This is the tech I'm most excited about right now:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 508 hrs 10 mins
+Total Time: 508 hrs 49 mins
 
-Python                125 hrs 35 mins ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-C++                   79 hrs 28 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Dart                  44 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Java                  41 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Python                125 hrs 35 mins ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+C++                   79 hrs 28 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Dart                  44 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Java                  41 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 Other                 20 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
