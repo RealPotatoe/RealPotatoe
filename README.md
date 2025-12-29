@@ -1,43 +1,21 @@
 <div align="center">
-  <a href="https://mbengel.dev">
-    <img src="https://komarev.com/ghpvc/?username=RealPotatoe&label=Views&color=blue&style=flat" alt="Profile views">
-  </a>
-  <a href="https://wakatime.com/@055ad605-78d0-4854-8a93-af21ba54a49f">
-    <img src="https://wakatime.com/badge/user/055ad605-78d0-4854-8a93-af21ba54a49f.svg?style=flat&color=blue" alt="Total time coded since Dec 15 2022">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=RealPotatoe&label=Views&color=blue&style=flat-square" alt="Profile views">
+  <a href="https://mbengel.dev"><img src="https://img.shields.io/badge/Portfolio-mbengel.dev-blue?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/moritz-bengel/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
+
+<h1 align="center">Hi, I'm Moritz.</h1>
+<h3 align="center">Full Stack Developer based in Darmstadt, Germany.</h3>
+
+I am a B.Sc. Computer Science student at **Hochschule Darmstadt** and a dual student at **Deutsche Telekom**. I prefer building simple, reliable software with **Go** and **TypeScript**.
+
 <div align="center">
-  <a href="https://mbengel.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-mbengel.dev-blue?style=flat" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/moritz-bengel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tato.gay" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Site-tato.gay-blue?style=flat" alt="Personal Site"/>
-  </a>
+
+![My Skills](https://skillicons.dev/icons?i=go,ts,python,deno,svelte,docker,postgres,mongo&perline=8)
+
 </div>
 
-### Hi, I'm Moritz 👋
-
-I'm a Full Stack Developer from Darmstadt, Germany, crafting modern web applications with clean code and emerging technologies.
-
-- 🎓 I'm currently a dual student pursuing my B.Sc. in Computer Science at Hochschule Darmstadt while working at Deutsche Telekom.
-- 💡 My passion lies in exploring cutting-edge open source technologies with vibrant communities, especially in the Go and TypeScript ecosystems.
-- 😄 Pronouns: He/Him
-- ☕ Fueled by curiosity and coffee.
-
 ---
-
-### 🚀 My Favorite Tools
-
-This is the tech I'm most excited about right now:
-
-![My Skills](https://skillicons.dev/icons?i=go,python,typescript,deno,svelte,docker,mongodb,postgres&perline=4)
-
----
-
-### 📊 My Coding Activity
 
 <!--START_SECTION:waka-->
 
