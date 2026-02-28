@@ -20,13 +20,13 @@ I am a B.Sc. Computer Science student at **Hochschule Darmstadt** and a dual stu
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 540 hrs 42 mins
+Total Time: 541 hrs 20 mins
 
-Python                133 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-C++                   79 hrs 32 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Dart                  44 hrs 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Java                  41 hrs 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Other                 22 hrs 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Python                134 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 %
+C++                   79 hrs 32 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Dart                  44 hrs 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Java                  41 hrs 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Other                 22 hrs 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
