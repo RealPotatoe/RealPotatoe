@@ -20,15 +20,15 @@ I am a B.Sc. Computer Science student at **Hochschule Darmstadt** and a dual stu
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 585 hrs 42 mins
+Total Time: 588 hrs 3 mins
 
-Python                139 hrs 41 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-C++                   79 hrs 32 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Dart                  44 hrs 42 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-Java                  41 hrs 50 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-YAML                  27 hrs 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-TypeScript            25 hrs 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Other                 24 hrs 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Python                139 hrs 41 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+C++                   79 hrs 32 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Dart                  44 hrs 42 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Java                  41 hrs 50 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+YAML                  27 hrs 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+TypeScript            26 hrs 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Other                 25 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
